@@ -4,7 +4,7 @@ Esta aplicación corresponde al último challenge de la formación React del pro
 
 ## Full Page: 
 
-![full-page](./src/assets/images/full%20page.png)
+![full-page](./src/assets/images/full-page.png)
 
 ## Características Principales
 
