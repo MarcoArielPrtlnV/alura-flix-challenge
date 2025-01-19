@@ -1,4 +1,4 @@
-# Resumen de la Aplicación
+# Resumen de la Aplicación (Alura Movies Database)
 
 Esta aplicación es un proyecto desarrollado con **React** y **Vite** para consumir la API de **The Movie Database (TMDb)** y mostrar una lista de películas populares. La aplicación incluye funcionalidades como la búsqueda de películas, visualización de trailers y un carrusel de películas próximas. Está diseñada para ser **responsiva** y adaptarse a diferentes tamaños de pantalla.
 
