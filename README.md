@@ -2,6 +2,10 @@
 
 Esta aplicación corresponde al último challenge de la formación React del programa **Oracle Next Education**, es un proyecto desarrollado con **React** y **Vite** para consumir la API de **The Movie Database (TMDb)** y mostrar una lista de películas populares. La aplicación incluye funcionalidades como la búsqueda de películas, visualización de trailers y un carrusel de películas próximas. Está diseñada para ser **responsiva** y adaptarse a diferentes tamaños de pantalla.
 
+## Full Page: 
+
+![full-page](./src/assets/images/full%20page.png)
+
 ## Características Principales
 
 ### 1. **Visualización de Películas Populares**
